@@ -51,9 +51,24 @@ $TABBY 持有者将通过空投共享 TabbyPOS 在 Solana 链上产生的收益�
 - ⛓️ 链 : Solana<br>
 - 📈 市值 : $264,000 (Last Update : 05 Feb 2025)<br>
 - 🏦 DEX : https://raydium.io/ <br>
-- 📜 合约Ca : CGn6Tmpqy7wyD22XxCnDoyGQwqodMPTrUwGsmX5rpump <br>
+- 📜 合约Ca : CGn6Tmpqy7wyD22XxCnDoyGQwqodMPTrUwGsmX5rpump <br><br>
 
-<br><br>
+### 盈利模式 💵💵<br>
+1. 📱 销售 POS 设备
+2. 📦 提供 POS 机硬件与软件的 OEM 服务
+3. 🛠 提供软件定制开发服务
+4. 💰加密货币转账手续费（TabbyPOS 2.0）
+
+### 商家是获得发币还是加密币？
+- TabbyPOS 1.0 商家最终收到加密货币
+- TabbyPOS 2.0 集成兑换服务，商家可选择直接将加密货币兑换为法币
+
+### 短期目标
+- 打磨产品、推动商用化、精心包装、成功落地，实现创收！
+
+### 长期目标
+- 获取加密币转换法币的牌照（加密货币交易所牌照）
+
 ## 📺 观看演习视频<br>
 [Solana Pay Demo](https://x.com/tabbypos/status/1871878777942536606/video/1)
 <br><br>
