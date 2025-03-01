@@ -13,11 +13,11 @@ TabbyPOS是一个来自马来西亚的加密货币POS系统，使商家能够无
 2. ✅ IoTeX 
 3. ✅ ICP 
 4. ✅ Solana
+5. ✅ Pi Network
 
 #### 目前正在集成的链如下： <br>
 1. 🔥BSC
 2. 🔥TRON
-3. 🔥Pi Network
 
 ## 社交媒体<br>
 - 🐦 X(推特) : https://x.com/tabbypos<br>
