@@ -40,7 +40,7 @@ EPOS 是我们在 2023 年发行的代币，用于募资。当时我们筹集了
 $EPOS 持有者将通过空投共享 TabbyPOS 产生的收益。<br>
 **备注：**目前，我们不鼓励交易，因为我们正在等待 ERGO Rosen 团队启用跨链到 BSC 的功能。一旦功能上线，我们的大部分流动性将迁移至 BSC。
 <br><br>
-- ⛓️ 链 : Ergo Platform<br>
+- ⛓️ 链 : Ergo Platform<br> (将会跨链到BNB Chain)
 - 📈 市值 : $100,325 (Last Update : 05 Feb 2025)<br>
 - 🏦 DEX : https://shorturl.at/CqYSL<br>
 - 🏦 CEX : https://nonkyc.io/market/EPOS_USDT<br><br>
@@ -71,6 +71,8 @@ $TABBY 持有者将通过空投共享 TabbyPOS 在 Solana 链上产生的收益�
 - 获取加密币转换法币的牌照（加密货币交易所牌照）
 
 ## 📺 观看演习视频<br>
+[BSC Pay Demo](https://x.com/i/status/1896966445701173386)
+<br><br>
 [Solana Pay Demo](https://x.com/tabbypos/status/1871878777942536606/video/1)
 <br><br>
 [ICP Pay Demo](https://x.com/i/status/1791378929812705525)
