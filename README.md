@@ -20,7 +20,7 @@ TabbyPOS是一个来自马来西亚的加密货币POS系统，使商家能够无
 2. 🔥BitGet Wallet
 
 ## 我们的客户<br>
-TabbyPOS目前还没有正式开始销售，我们正在准备2025 Q2开始推出市场<br>
+TabbyPOS目前还没有正式开始销售，我们正在准备2025 Q2开始正式推出市场<br>
 
 ## 社交媒体<br>
 - 🐦 X(推特) : https://x.com/tabbypos<br>
