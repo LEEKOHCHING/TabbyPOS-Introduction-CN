@@ -14,6 +14,7 @@ TabbyPOS是一个来自马来西亚的加密货币POS系统，使商家能够无
 3. ✅ Solana
 4. ✅ Pi Network
 5. ✅ BSC
+6. ✅ APTOS
 
 #### 目前正在集成的链如下： <br>
 1. 🔥TRON
@@ -48,15 +49,16 @@ LinkedIn : https://www.linkedin.com/in/koh-ching-lee-7b120756/<br>
 X(推特) : https://twitter.com/Cstehbeauty<br>
 
 ## 代币
-### $EPOS<br>
-EPOS 是我们在 2023 年发行的代币，用于募资。当时我们筹集了数万美元，但由于我们仍是加密领域的新手，缺乏管理经验。经历熊市后，我们筹集的资金大幅贬值。然而，我们从未放弃——尽管资金短缺，我们依然怀揣热情和坚定的信念持续建设。<br><br>
+### $TABBY<br>
+TABBY 是我们在 2023 年发行的代币，用于募资。当时我们筹集了数万美元，但由于我们仍是加密领域的新手，缺乏管理经验。经历熊市后，我们筹集的资金大幅贬值。然而，我们从未放弃——尽管资金短缺，我们依然怀揣热情和坚定的信念持续建设。<br><br>
 $EPOS 持有者将通过空投共享 TabbyPOS 产生的收益。<br>
 **备注：**目前，我们不鼓励交易，因为我们正在等待 ERGO Rosen 团队启用跨链到 BSC 的功能。一旦功能上线，我们的大部分流动性将迁移至 BSC。
 <br><br>
-- ⛓️ 链 : Ergo Platform (将会跨链到BNB Chain) <br> 
-- 📈 市值 : $100,325 (Last Update : 05 Feb 2025)<br>
-- 🏦 DEX : https://shorturl.at/CqYSL<br>
-- 🏦 CEX : https://nonkyc.io/market/EPOS_USDT<br><br>
+- ⛓️ 链 : BSC <br> 
+- 📈 市值 : $150,000 (Last Update : 18 May 2025)<br>
+- 🏦 DEX : https://shorturl.at/6o6Xa<br>
+- 🏦 CEX : https://nonkyc.io/market/TABBY_USDT<br><br>
+- 📜 合约Ca : 0x319558c8aD708dc42f45ab70eADA4750d6c942d7
 
 ### $TABBY 🔥🔥<br>
 TABBY 最初是我在集成 Solana 时创建的测试代币。某天，它在 PumpFun 上意外走红并成功上线。鉴于 Solana 近期的火爆趋势，我们正式宣布将管理和维护该代币，将其作为 TabbyPOS 的 meme 代币，或是项目的象征性代表。<br><br>
