@@ -16,6 +16,7 @@ TabbyPOS是一个来自马来西亚的加密货币POS系统，使商家能够无
 4. ✅ Pi Network
 5. ✅ BSC
 6. ✅ APTOS
+7. ✅ FLOW
 
 #### 目前正在集成的链如下： <br>
 1. 🔥TRON
