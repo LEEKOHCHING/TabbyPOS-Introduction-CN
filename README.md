@@ -37,8 +37,7 @@ TabbyPOS目前还没有正式开始销售，我们正在准备2025 Q2开始正�
 
 ## 社交媒体<br>
 - 🐦 X(推特) : https://x.com/tabbypos<br>
-- ✈️ 电报 (EN) : https://t.co/TCS1rxjBTL<br>
-- ✈️ 电报 (CN) : https://t.co/HxM3QZOxRC<br>
+- ✈️ 电报 : https://t.co/TCS1rxjBTL<br>
 - 🔗 网站 ：https://www.tabbylab.io/<br>
 
 ## 团队<br>
