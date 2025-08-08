@@ -1,6 +1,6 @@
 # TabbyPOS-Introduction-CN
 #### Web3 加密货币 POS | 将去中心化支付带入现实商业世界
-TabbyPOS是一个来自马来西亚的加密货币POS系统，使商家能够无缝接受加密支付。它支持多个区块链，包括 Ergo, IoTeX, ICP, BSC, APTOS, Pi Network 和 Solana，提供快速、安全且高效的交易体验。借助 TabbyPOS，商家可以轻松将加密支付集成到业务中，同时受益于去中心化且可扩展的基础设施。
+TabbyPOS是一个加密货币POS系统，使商家能够无缝接受加密支付。它支持多个区块链，包括 Ergo, IoTeX, ICP, BSC, APTOS, Pi Network 和 Solana，提供快速、安全且高效的交易体验。借助 TabbyPOS，商家可以轻松将加密支付集成到业务中，同时受益于去中心化且可扩展的基础设施。
 
 ## TabbyPOS 目前的成就：<br>
 1. 🏆 获得 ICP Dfinity 基金会的资助支持，并成功完成指定里程碑。<br>
@@ -91,6 +91,8 @@ $TABBY 持有者将通过空投共享 TabbyPOS 在 Solana 链上产生的收益�
 [Solana Pay Demo](https://x.com/tabbypos/status/1871878777942536606/video/1)
 <br><br>
 [ICP Pay Demo](https://x.com/i/status/1791378929812705525)
+<br><br>
+[Aptos Pay Demo](https://x.com/i/status/1924150206830088688)
 <br><br>
 ## 🖼️ 产品照片<br>
 <img src="images/tabbypos_product_01.jpg" alt="TabbyPOS" width="500">
